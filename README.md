@@ -100,5 +100,5 @@ This forecasting tool could be used as an internal business utility to help orga
 The project could also be expanded into a future SaaS product with automated forecasting and interactive dashboards.
 
 
-Aiyda Syed
+Aiyda Syed -
 Data Science
